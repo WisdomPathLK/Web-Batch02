@@ -1,0 +1,30 @@
+/* 
+    Primary	    #1A1F2B - Dark Blue
+    Secondary	#4A6491 - Blue
+    Secondary	#4A6491 - Blue
+    Tertiary	#FA683C - Orange
+
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Lemonada', cursive;
+*/
+
+
+body{
+    color:#1A1F2B;
+    font-family: 'PT Sans', sans-serif;
+}
+
+a{
+    color:#FA683C;
+}
+    a:hover{
+        color:#4A6491;
+    }
+
+h1{
+    font-family: 'Lemonada', cursive;
+}
+
+h3.sub-title{
+    color:#FA683C;
+}
