@@ -1,0 +1,32 @@
+.wrapper{
+    width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background: wheat;
+}
+
+/* Main Menu  */
+
+.main-menu li{
+    display: inline-block;
+}
+
+/* Main Sections */
+.section-pane{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.left-pane{
+    width: 30%;
+}
+
+.right-pane{
+    width: 69%;
+}
+
+.feature-boxes > div{
+    display: inline-block;
+    width: 33%;
+}
+

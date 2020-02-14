@@ -1,0 +1,35 @@
+.wrapper{
+	width:1240;
+	margin:0 0px;
+	padding: 0 20px;
+	background: wheat;
+
+}
+.main_menu li{
+	display: inline-block ;
+}
+.section-pane{
+	display: inline-block;
+	vertical-align: top;
+
+}
+.left_pane{
+	
+	width: 30%;
+
+}
+.right-pane{
+	 
+	width:69%;
+}
+h3.sub-title{
+	
+}
+.news-block{
+	height: 100%;
+	background: skyblue;
+}
+.event-block{
+	height: 100%;
+	background: lightgreen;
+}

@@ -1,0 +1,24 @@
+
+/*Primary	#1A1F2B
+Secondary	#4A6491
+Tertiary	#FA683C*/
+
+body{
+color: #1A1F2B;
+
+font-family: 'PT Sans', sans-serif;
+
+}
+h1{
+	font-family: 'Lemonada', cursive;
+}
+
+a{
+	color:#FA683C; 
+}
+a:hover{
+	color: #4A6491;
+}
+h3.sub-title{
+color: #FA683C;
+}
